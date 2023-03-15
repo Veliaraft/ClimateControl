@@ -1,0 +1,10 @@
+C:\Users\Veliaraft\source\repos\cControl\cControl\bin\Debug\cControl.exe.config
+C:\Users\Veliaraft\source\repos\cControl\cControl\bin\Debug\cControl.exe
+C:\Users\Veliaraft\source\repos\cControl\cControl\bin\Debug\cControl.pdb
+C:\Users\Veliaraft\source\repos\cControl\cControl\obj\Debug\cControl.csproj.AssemblyReference.cache
+C:\Users\Veliaraft\source\repos\cControl\cControl\obj\Debug\cControl.Form1.resources
+C:\Users\Veliaraft\source\repos\cControl\cControl\obj\Debug\cControl.Properties.Resources.resources
+C:\Users\Veliaraft\source\repos\cControl\cControl\obj\Debug\cControl.csproj.GenerateResource.cache
+C:\Users\Veliaraft\source\repos\cControl\cControl\obj\Debug\cControl.csproj.CoreCompileInputs.cache
+C:\Users\Veliaraft\source\repos\cControl\cControl\obj\Debug\cControl.exe
+C:\Users\Veliaraft\source\repos\cControl\cControl\obj\Debug\cControl.pdb
